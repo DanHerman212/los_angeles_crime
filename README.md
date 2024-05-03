@@ -1,2 +1,13 @@
-# los_angeles_crime
-Crime in Los Angeles from 2020 - 2023
+# Real Time Prediction for LAPD Arrest Response
+
+![Hollywood Blvd](/images/hollywood_blvd.jpeg)
+*Photo: Hollywood Blvd - [Downloaded from visittheusa.com](https://www.visittheusa.com/destination/los-angeles)*
+
+<font size='4'>
+
+For a technical overview, please refer to the [Jupyter Notebook](https://github.com/DanHerman212/los_angeles_crime/blob/main/notebooks/data_exploring.ipynb)
+
+
+The dataset is too big to host on GitHub. You can access the data file directly through this direct download link:  [LA Crime Activity](https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD) total size is 238mb.
+
+</font>
