@@ -5,7 +5,7 @@
 
 <font size='4'>
 
-For a technical overview, please refer to the [Jupyter Notebook](https://github.com/DanHerman212/los_angeles_crime/blob/main/notebooks/data_exploring.ipynb)
+For a technical overview, please refer to the [Notebooks Section](https://github.com/DanHerman212/los_angeles_crime/tree/main/notebooks)
 
 
 The dataset is too big to host on GitHub. You can access the data file directly through this direct download link:  [LA Crime Activity](https://data.lacity.org/api/views/2nrs-mtv8/rows.csv?accessType=DOWNLOAD) total size is 238mb.
