@@ -8,9 +8,9 @@
 For a technical overview, please refer to the [Notebooks Section](https://github.com/DanHerman212/los_angeles_crime/tree/main/notebooks)
 
 # Introduction
-The goal for this project was to analyze Los Angeles crime, relative to the national crime index.  The data came direct from the LAPD open data portal.  The project took 2 weeks total to complete.
+The goal for this project was to analyze Los Angeles crime, relative to the national crime index.  The data came direct from the LAPD open data portal.  The project took 2 weeks to complete.
 
-Here is a non-techical analysis available on [Medium](https://medium.com/@danherman64/los-angeles-crime-can-law-enforcement-use-ai-to-improve-arrest-outcomes-82c1e0bb6a7ed)
+If you would like to read the non-technical analysis, please use the following link on [Medium](https://medium.com/@danherman64/los-angeles-crime-can-law-enforcement-use-ai-to-improve-arrest-outcomes-82c1e0bb6a7e)
 
 ## Python Packages
 
