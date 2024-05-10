@@ -32,6 +32,10 @@ The following Python packages are required to run the code in this repository:
 - `xgboost` Gradient Boosted Decision Trees Model
 - `fast_ml` Machine Learning Tools
 
+## I/O
+- `urllib` URL Handling
+- `json` JSON Handling
+
 ## File Structure
 ![File Structure](images/tree.png)
 
